@@ -1,0 +1,12 @@
+{
+  "name": "duola_mall_server",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^9.1.0",
+    "nodemon": "^2.0.4"
+  },
+	"scripts":{
+		"start":"nodemon server.js"
+	}
+}
